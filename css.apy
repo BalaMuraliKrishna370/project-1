@@ -1,0 +1,8 @@
+.flex-box-container{
+    display:flex
+    gap:10px
+    flex_direction:row_reverse
+}
+.flex-box-container div:nth_child(1){
+    background color:yellow
+}
